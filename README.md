@@ -157,6 +157,8 @@
   </a>
 </p>
 
+
+<!--
 <h3 align = "left">📈GitHub Analytics:</h3>
 <p>
   &nbsp;<img
@@ -166,7 +168,7 @@
   />
 </p>
 
-<!--
+
 <h3 align = "left">Connect with me:</h3>
 <p align="left">
   <a href="link" target="blank">
